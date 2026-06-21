@@ -69,11 +69,9 @@ This project predicts whether a hotel booking will be canceled using Machine Lea
 
 Interactive web application built using Streamlit.
 
-![Streamlit Home](images/streamlit-home.png)
+![Streamlit Home](images/streamlit app.png)
 
-![Streamlit Input Form](images/streamlit-form.png)
-
-![Streamlit Prediction Interface](images/streamlit-prediction.png)
+![Streamlit Prediction Interface](images/streamlit.png))
 
 ---
 
@@ -89,11 +87,11 @@ Available Endpoints:
 
 ### FastAPI Swagger Documentation
 
-![FastAPI Home Endpoint](images/fastapi-home.png)
+![FastAPI Home Endpoint](images/fastapi1.png
 
-![FastAPI Health Endpoint](images/fastapi-health.png)
+![FastAPI Health Endpoint](images/fastapi2.png
 
-![FastAPI Predict Endpoint](images/fastapi-predict.png)
+![FastAPI Predict Endpoint](images/fastapi3.png)
 
 ---
 

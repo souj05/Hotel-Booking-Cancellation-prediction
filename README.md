@@ -71,8 +71,6 @@ Interactive web application built using Streamlit.
 
 ![Streamlit Home](images/streamlit app.png)
 
-![Streamlit Prediction Interface](images/streamlit.png))
-
 ---
 ## Streamlit Application
 

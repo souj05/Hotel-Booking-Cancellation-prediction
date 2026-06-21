@@ -124,7 +124,23 @@ Application successfully containerized using Docker.
 - Application executed inside container
 
 ---
+## Deployment
 
+### Render Deployment
+
+The FastAPI backend is deployed on Render and exposes REST API endpoints for real-time predictions.
+
+🔗 API: https://hotel-booking-cancellation-prediction-3mo1.onrender.com
+
+🔗 Swagger Documentation: https://hotel-booking-cancellation-prediction-3mo1.onrender.com/docs
+
+### Docker Containerization
+
+The application has been containerized using Docker to ensure portability and reproducible deployments across environments.
+
+```bash
+docker build -t hotel-booking-cancellation .
+docker run -p 8501:8501 hotel-booking-cancellation
 # Project Workflow
 
 ```text

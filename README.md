@@ -146,10 +146,5 @@ Hotel_Booking_Cancellation_Prediction/
 ├── README.md
 │
 └── screenshots/
-```
 
-## Author
-
-**Sowjanya Tadimarri**
-
-Machine Learning | AI | Data Science
+**Sowjanya TadiMachine Learning | AI | Data Science

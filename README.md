@@ -80,6 +80,14 @@ Interactive web application built using Streamlit for hotel booking cancellation
 
 ![Streamlit App](streamlit%20app.png)
 
+## Live Demo
+
+### Streamlit Application
+
+🔗 Live App:
+
+https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/
+
 ---
 
 ## FastAPI Deployment

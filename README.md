@@ -175,7 +175,7 @@ Hotel_Booking_Cancellation_Prediction/
 ├── hotel_cancellation_model.pkl
 ├── Hotel_Booking_Cancellation.ipynb
 ├── README.md
-│
-└── screenshots/
+│__ screenshots
 
-**Sowjanya TadiMachine Learning | AI | Data Science
+└── screenshots
+**Sowjanya TadiMachine | AI | Data Science

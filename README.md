@@ -74,12 +74,19 @@ Interactive web application built using Streamlit.
 ![Streamlit Prediction Interface](images/streamlit.png))
 
 ---
+## Streamlit Application
 
-# FastAPI Deployment
+Interactive web application built using Streamlit for hotel booking cancellation prediction.
+
+![Streamlit App](streamlit%20app.png)
+
+---
+
+## FastAPI Deployment
 
 REST API built using FastAPI.
 
-Available Endpoints:
+### Available Endpoints
 
 - GET /
 - GET /health
@@ -87,13 +94,17 @@ Available Endpoints:
 
 ### FastAPI Swagger Documentation
 
-![FastAPI Home Endpoint](images/fastapi1.png
+#### Home Endpoint
 
-![FastAPI Health Endpoint](images/fastapi2.png
+![FastAPI Home](fastapi.png)
 
-![FastAPI Predict Endpoint](images/fastapi3.png)
+#### Health Endpoint
 
----
+![FastAPI Health](fastapi2.png)
+
+#### Predict Endpoint
+
+![FastAPI Predict](fastapi3.png)
 
 # Docker Containerization
 

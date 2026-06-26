@@ -71,7 +71,7 @@ Hotels face significant revenue loss due to booking cancellations. This project 
 
 Interactive dashboard for real-time hotel booking cancellation prediction.
 
-> 📸 *(Add Streamlit screenshots here)*
+> 📸 *(streamlit.app.png)*
 
 🔗 **Live App:** [https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/](https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/)
 
@@ -89,7 +89,7 @@ REST API for serving model predictions programmatically, deployed on Render.
 | GET | `/health` | Model health check |
 | POST | `/predict` | Predict booking cancellation |
 
-> 📸 *(Add FastAPI screenshots here)*
+> 📸 *(fastapi.png,fastapi2.png,fastapi3.png)*
 
 🔗 **API:** [https://hotel-booking-cancellation-prediction-3mo1.onrender.com](https://hotel-booking-cancellation-prediction-3mo1.onrender.com)  
 🔗 **Swagger Docs:** [https://hotel-booking-cancellation-prediction-3mo1.onrender.com/docs](https://hotel-booking-cancellation-prediction-3mo1.onrender.com/docs)

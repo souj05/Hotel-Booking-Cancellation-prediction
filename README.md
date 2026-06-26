@@ -74,10 +74,10 @@ Interactive dashboard for real-time hotel booking cancellation prediction.
 > ## ## 📸 Streamlit Dashboard
 
 ### Home
-![Home](screenshots/streamlit%20app.png)
+![Home](streamlit%20app.png)
 
 ### Prediction
-![Prediction](screenshots/streamlit%20.png)
+![Prediction](streamlit%20.png)
 
 🔗 **Live App:** [https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/](https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/)
 
@@ -98,13 +98,13 @@ REST API for serving model predictions programmatically, deployed on Render.
 ## 📸 FastAPI
 
 ### Home
-![FastAPI Home](screenshots/fastapi.png)
+![FastAPI Home](fastapi.png)
 
 ### Swagger UI
-![Swagger](screenshots/fastapi2.png)
+![Swagger](fastapi2.png)
 
 ### Prediction API
-![Prediction API](screenshots/fastapi3.png)
+![Prediction API](fastapi3.png)
 
 🔗 **API:** [https://hotel-booking-cancellation-prediction-3mo1.onrender.com](https://hotel-booking-cancellation-prediction-3mo1.onrender.com)  
 🔗 **Swagger Docs:** [https://hotel-booking-cancellation-prediction-3mo1.onrender.com/docs](https://hotel-booking-cancellation-prediction-3mo1.onrender.com/docs)

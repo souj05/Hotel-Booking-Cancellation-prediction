@@ -71,7 +71,7 @@ Hotels face significant revenue loss due to booking cancellations. This project 
 
 Interactive dashboard for real-time hotel booking cancellation prediction.
 
-> 📸 *(streamlit.app.png)*
+> 📸 ![Streamlit App](screenshots/streamlit%20app.png)
 
 🔗 **Live App:** [https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/](https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/)
 

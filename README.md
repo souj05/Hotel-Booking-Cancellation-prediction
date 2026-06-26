@@ -74,10 +74,10 @@ Interactive dashboard for real-time hotel booking cancellation prediction.
 > ## ## 📸 Streamlit Dashboard
 
 ### Home
-![Home](screenshots/streamlit app.png)
+![Home](screenshots/streamlit%20app.png)
 
 ### Prediction
-![Prediction](screenshots/streamlit.png)
+![Prediction](screenshots/streamlit%20.png)
 
 🔗 **Live App:** [https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/](https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/)
 

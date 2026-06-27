@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Cancellation Prediction
 
-A Machine Learning project that predicts whether a hotel booking will be cancelled, with an interactive Streamlit dashboard and a FastAPI REST API.
+A Machine Learning project that predicts whether a hotel booking will be cancelled or not , with an interactive Streamlit dashboard and a FastAPI REST API.
 
 🔗 **Live App:** [https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/](https://hotel-booking-cancellation-prediction-ffyugdhduxby5bvxuuqje6.streamlit.app/)
 
